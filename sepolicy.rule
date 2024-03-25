@@ -1,0 +1,2 @@
+allow system_server fuse file { getattr read map };
+allow system_server sdcardfs file { getattr read map };

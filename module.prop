@@ -1,0 +1,7 @@
+id=faina
+name="pm Install" from anywhere
+version=0.1
+versionCode=1
+author=Kartatz
+description=Allow the 'pm' CLI utility to install APKs from anywhere.
+support=https://github.com/AmanoTeam/Faina
