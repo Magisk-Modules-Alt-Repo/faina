@@ -10,6 +10,11 @@ At some point between the release of Android 8 and 9, Google changed the way the
 
 This is annoying because it makes you run additional commands or take extra actions (e.g., copy, move, change file permissions) to move or copy the APK to a trusted location before actually installing it.
 
+### References
+
+* [Install APK using root, handling new limitations of "/data/local/tmp/" folder](https://stackoverflow.com/questions/50540334)
+* [Bug: can't install APK files using "pm install" via device](https://issuetracker.google.com/issues/80270303)
+
 ## Supported Android versions
 
 This module was only tested on Android 14, but in theory, it should work on any Android version starting from Android Oreo.
